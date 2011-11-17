@@ -1,7 +1,7 @@
 require 'state_machine'
 
 module Antir
-  class Machines
+  module Machines
   end
 end
 
