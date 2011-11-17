@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "antir-machine"
   gem.homepage = "http://github.com/krakatoa/antir-machine"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Antir State Machines}
+  gem.description = %Q{Antir State Machines}
   gem.email = "krakatoa1987@gmail.com"
   gem.authors = ["Fernando Alonso"]
   # dependencies defined in Gemfile
