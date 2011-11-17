@@ -24,8 +24,9 @@ Gem::Specification.new do |s|
     "README.rdoc",
     "Rakefile",
     "VERSION",
+    "antir-machine.gemspec",
     "lib/antir-machine.rb",
-    "lib/antir/machines/vps.rb",
+    "lib/antir/machines/vps_machine.rb",
     "test/helper.rb",
     "test/test_antir-machine.rb"
   ]
