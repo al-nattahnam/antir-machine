@@ -26,7 +26,7 @@ Gem::Specification.new do |s|
     "VERSION",
     "antir-machine.gemspec",
     "lib/antir-machine.rb",
-    "lib/antir/machines/vps_machine.rb",
+    "lib/antir/machines/vps.rb",
     "test/helper.rb",
     "test/test_antir-machine.rb"
   ]
