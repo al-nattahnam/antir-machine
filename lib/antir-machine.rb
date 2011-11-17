@@ -5,4 +5,4 @@ module Antir
   end
 end
 
-require 'antir/machines/vps'
+require 'antir/machines/vps_machine'
