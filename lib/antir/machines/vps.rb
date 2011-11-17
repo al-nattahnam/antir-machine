@@ -1,5 +1,5 @@
 module Antir
-  class Machines
+  module Machines
     class VPS
       state_machine :state, :initial => :pending do
         before_transition :pending => :waiting do
