@@ -1,6 +1,6 @@
 module Antir
   module Machines
-    class VPSMachine
+    class VPS
       state_machine :state, :initial => :pending do
         before_transition :pending => :waiting do
           puts 'creating!'
